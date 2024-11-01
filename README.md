@@ -24,7 +24,7 @@ I'm always excited to discuss new ideas, collaborate on projects, or just chat a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varun-kumar-v-12a37524a/)
 
-📧 **Email**: [varun.example@gmail.com](mailto:varunbali2711@gmail.com)  
+📧 **Email**: [varunbali2711@gmail.com](mailto:varunbali2711@gmail.com)  
 <!---- 📱 **Phone**: [+91 9876543210](tel:+918) ----->
 
 ---
